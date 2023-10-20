@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hola! Soy Agustín, un apasionado programador con sede en Venezuela, listo para embarcarme en emocionantes proyectos y aprender de cada experiencia. <br>Mi objetivo es  contribuir al éxito del equipo y continuar evolucionando en el mundo del desarrollo de software.<br>En mi viaje como programador junior, he tenido la oportunidad de adquirir experiencia en una variedad de lenguajes de programación y tecnologías,  HTML/CSS y JavaScript. Además, he trabajado en proyectos personales y académicos que me han permitido desarrollar habilidades sólidas en la resolución de problemas y la colaboración en equipo.<br><br>Estoy buscando activamente oportunidades para colaborar en proyectos emocionantes y aprender de profesionales experimentados en la industria. Mi objetivo es seguir creciendo como desarrollador y contribuir de manera significativa en el desarrollo de aplicaciones efectivas y eficientes.<br>
+🔭 I’m currently working on my Skills.
+🌱 I’m currently learning more about Frontend Web development
+💬 Ask me about any tech-related stuff.
+📫 How to reach me: Email - lopezagustin26@gmail.com
 
 
 # 💻 Tech Stack:
