@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on my Skills.
+# 💫 About Me:🔭 I’m currently working on my Skills.
 🌱 I’m currently learning more about Frontend Web development
 💬 Ask me about any tech-related stuff.
 📫 How to reach me: Email - lopezagustin26@gmail.com
@@ -26,6 +25,7 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lopezagustin26@gmail.com) 
-
 contacto: lopezagustin26@gmail.com  __ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+  
